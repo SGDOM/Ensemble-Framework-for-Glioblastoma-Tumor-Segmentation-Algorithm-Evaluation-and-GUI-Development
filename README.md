@@ -39,7 +39,8 @@ hyperparameters like learning rate and Focal Tverskey loss parameters varies ove
 
 Running the app.py
 ```
-
+python app.py
+```
 
 #### Simulation Results
-Simulation findings and complexity evaluation are disclosed subsequent to the paper's publication.
+Simulation findings including generalization are disclosed subsequent to the paper's publication.
