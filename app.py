@@ -171,3 +171,5 @@ if image  is not None:
      st.dataframe(metrics_final,use_container_width=True)
 else:
    st.write("Make sure you image is in h5 Format.")
+
+!streamlit run /content/app.py & sleep 5 && npx localtunnel --port 8501 --allow
