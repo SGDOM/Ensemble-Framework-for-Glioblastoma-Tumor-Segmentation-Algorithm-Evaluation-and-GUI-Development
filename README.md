@@ -17,6 +17,9 @@ BraTS 2021:http://braintumorsegmentation.org/.
 
 BraTS 2020: https://www.med.upenn.edu/cbica/brats2020/data.html
 
+BraTS 2018: https://www.med.upenn.edu/sbia/brats2018/data.html
+
+MSD dataset: http://medicaldecathlon.com/
 
 
 #### Dataset preprocessing and Load required functions
