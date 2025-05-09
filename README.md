@@ -1,4 +1,4 @@
-# Glioblastomata-Segmentation--Balancing-Dice-Score-and-HD95
+# Ensemble-Framework-for-Glioblastoma-Tumor-Segmentation-Algorithm-Evaluation-and-GUI-Development
 
 
 ## Required environment
@@ -34,6 +34,12 @@ Running the Training & prediction.py
 python Training & prediction.py
 ```
 hyperparameters like learning rate and Focal Tverskey loss parameters varies over 50 epochs for swift convergence.
+
+#### GUI development
+
+Running the app.py
+```
+
 
 #### Simulation Results
 Simulation findings and complexity evaluation are disclosed subsequent to the paper's publication.
